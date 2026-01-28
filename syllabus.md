@@ -43,7 +43,7 @@ library:
 
 Professor: Alain Kägi  
 Email: alaink@lclark.edu  
-Office hours: Thu 9-10am & Fri 3-4pm, Olin 226B
+Office hours: Thu 10-11am & Fri 3-4pm, Olin 226B
 
 ## Course description
 
