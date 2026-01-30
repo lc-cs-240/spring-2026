@@ -2,7 +2,7 @@
 
 ## A dataset
 
-For most of this semester will be play with the
+For most of this semester we will play with the
 [City of Portland Tree Inventory](https://gis-pdx.opendata.arcgis.com/datasets/c2b02440053f459db71e1109b9947e51_1415/explore).
 
 ## Relationships
