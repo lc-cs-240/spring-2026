@@ -15,8 +15,12 @@ Benefits of prepared statements are:
 
 ## Activity
 
-Convert one of your PHP queries to use prepared statements. You may find the
-reference below useful.
+* Try to subvert the original intention of your project's PHP implementation
+  with an SQL injection.
+
+* Convert one of your PHP queries to use prepared statements. Check that the
+  SQL injection used in the previous step is no longer possible. You may find
+  the reference below useful.
 
 ## Reference
 
